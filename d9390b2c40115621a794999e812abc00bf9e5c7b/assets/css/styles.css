@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .ff-serif {
-  font-family: "IBM Plex Serif";
+  font-family: "IBM Plex Serif", serif;
 }
 
 .btn-primary {
